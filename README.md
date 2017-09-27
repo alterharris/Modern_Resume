@@ -4,7 +4,7 @@ Lab 01: A Modern & Retro Resume
 
 Covalence
 
-Full Stack: Spring 2017
+Full Stack: Fall 2017
 
 Objectives
 
